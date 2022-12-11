@@ -1,6 +1,6 @@
+# PRAKTIKUM 8 FARDHILAN GALANG PRIARTO
 Progam Daftar Nilai Mahasiswa
 Kode program ini digunakan untuk mengelola daftar nilai mahasiswa, dimana user dapat menambah, menampilkan, mengubah, atau menghapus data nilai mahasiswa.
-
 # Algoritma
 Berikut adalah algoritma dari program ini:
 ```
